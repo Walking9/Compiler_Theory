@@ -1,0 +1,6 @@
+int Max(int x, int y)	/*This is a note*/
+{
+	int i;
+	for(i=0; i<10; i++);
+	retrun x>y?x:y;
+}
